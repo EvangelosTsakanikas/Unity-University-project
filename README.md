@@ -9,4 +9,4 @@ Arrows : move camera while in "God" mode (when not in first person)
 Scroll Wheel : zoom in and out while in "God" mode  
 ESC : close the application  
 
-**Needs maze.txt or a similar .txt file**
+**Needs maze.txt or a similar .txt file** (in order to load the maze) 
